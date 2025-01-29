@@ -88,7 +88,7 @@ https://www.instagram.com/ncsc_id
 
 atau bisa dilihat seperti ini
 
-![Output Following](<Output_Following.png>)
+![Output_Following](<Output_Following.png>)
 ```
 
 ---
