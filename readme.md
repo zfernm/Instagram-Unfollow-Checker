@@ -85,19 +85,14 @@ https://www.instagram.com/gdgoc.ug/
 https://www.instagram.com/technofair
 https://www.instagram.com/cybercom.ug
 https://www.instagram.com/ncsc_id
+
+atau bisa dilihat seperti ini
+
+![Output Following](<Output_Following.png>)
 ```
-
----
-
-## Lisensi
-Proyek ini menggunakan lisensi MIT. Silakan gunakan, modifikasi, dan bagikan sesuai kebutuhan.
-
----
-
-## Kontribusi
-Kontribusi terbuka untuk semua orang. Jika ada ide untuk meningkatkan tools ini, silakan ajukan pull request atau buka issue di repository.
 
 ---
 
 **Selamat menggunakan!**
 
+### Dikembangkan oleh: **[zfernm](https://www.linkedin.com/in/samuel-hamonangan-s-099604255/)**
