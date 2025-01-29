@@ -85,11 +85,10 @@ https://www.instagram.com/gdgoc.ug/
 https://www.instagram.com/technofair
 https://www.instagram.com/cybercom.ug
 https://www.instagram.com/ncsc_id
-
+```
 atau bisa dilihat seperti ini
 
 ![Output_Following](<Output_Following.png>)
-```
 
 ---
 
